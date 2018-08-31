@@ -1,0 +1,9 @@
+{
+  "name": "ExamApp",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "handlebars": "^4.0.11",
+    "sammy": "^0.7.6"
+  }
+}
